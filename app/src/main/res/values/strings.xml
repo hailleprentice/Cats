@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Cats</string>
-    <string name="catOne" translatable="false">TwoBit</string>
+    <string name="app_name">Cats</string>
+    <string name="catOne">TwoBit</string>
 </resources>
